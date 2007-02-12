@@ -1,5 +1,5 @@
 Summary:	X.org video driver for Sun CG3 video cards
-Summary(pl.UTF-8):   Sterownik obrazu X.org dla kart graficznych Sun CG3
+Summary(pl.UTF-8):	Sterownik obrazu X.org dla kart graficznych Sun CG3
 Name:		xorg-driver-video-suncg3
 Version:	1.1.0
 Release:	0.1
